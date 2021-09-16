@@ -1,3 +1,0 @@
-import Test
-
-print(add(1+2))
