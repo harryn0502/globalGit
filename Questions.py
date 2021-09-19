@@ -1,6 +1,6 @@
-import Test as Math
+import Test as Maths
 
-print(Math.add(1,2))
-print(Math.sub(1,2))
-print(Math.mul(1,2))
-print(Math.div(1,2))
+print(Maths.add(1,2))
+print(Maths.sub(1,2))
+print(Maths.mul(1,2))
+print(Maths.div(1,2))
